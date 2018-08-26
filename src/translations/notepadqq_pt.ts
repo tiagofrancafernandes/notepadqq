@@ -11,7 +11,7 @@
     <message>
         <location filename="../ui/EditorNS/bannerfilechanged.cpp" line="15"/>
         <source>Reload</source>
-        <translation>Recharger</translation>
+        <translation>Recarregar</translation>
     </message>
     <message>
         <location filename="../ui/EditorNS/bannerfilechanged.cpp" line="18"/>
@@ -24,12 +24,12 @@
     <message>
         <location filename="../ui/EditorNS/bannerfileremoved.cpp" line="13"/>
         <source>This file has been deleted from the file system.</source>
-        <translation>Ce fichier a été supprimé du système de fichiers.</translation>
+        <translation>Este archivo ha sido eleminado del sistema.</translation>
     </message>
     <message>
         <location filename="../ui/EditorNS/bannerfileremoved.cpp" line="15"/>
         <source>Save</source>
-        <translation>Salvar</translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="../ui/EditorNS/bannerfileremoved.cpp" line="18"/>
@@ -42,34 +42,34 @@
     <message>
         <location filename="../ui/EditorNS/bannerindentationdetected.cpp" line="18"/>
         <source>This file is indented with %1, but your current settings specify to use %2.</source>
-        <translation>Ce fichier est indenté avec %1 mais vos paramètres actuels indiquent l&apos;utilisation de %2.</translation>
+        <translation>Este archivo está sangrado con %1, pero su configuración actual especifica que use %2.</translation>
     </message>
     <message>
         <location filename="../ui/EditorNS/bannerindentationdetected.cpp" line="20"/>
         <location filename="../ui/EditorNS/bannerindentationdetected.cpp" line="25"/>
         <source>spaces</source>
-        <translation>espaço</translation>
+        <translation>espacios</translation>
     </message>
     <message>
         <location filename="../ui/EditorNS/bannerindentationdetected.cpp" line="20"/>
         <location filename="../ui/EditorNS/bannerindentationdetected.cpp" line="25"/>
         <source>tabs</source>
-        <translation>tabs</translation>
+        <translation>tabulaciones</translation>
     </message>
     <message>
         <location filename="../ui/EditorNS/bannerindentationdetected.cpp" line="22"/>
         <source>Use spaces</source>
-        <translation>Utiliser des espaces</translation>
+        <translation>Usar espacios</translation>
     </message>
     <message>
         <location filename="../ui/EditorNS/bannerindentationdetected.cpp" line="27"/>
         <source>Use tabs</source>
-        <translation>Utilizar tabs</translation>
+        <translation>Usar tabulaciones</translation>
     </message>
     <message>
         <location filename="../ui/EditorNS/bannerindentationdetected.cpp" line="31"/>
         <source>This file is indented with %1 spaces, but your current settings specify to use %2 spaces.</source>
-        <translation>Ce fichier est indenté avec %1 espaces mais vos paramètres actuels indiquent l&apos;utilisation de %2 espaces.</translation>
+        <translation>Este archivo está sangrado con %1 espacios, pero su configuración actual especifica usar %2 espacios.</translation>
     </message>
     <message>
         <location filename="../ui/EditorNS/bannerindentationdetected.cpp" line="34"/>
