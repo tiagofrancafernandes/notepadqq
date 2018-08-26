@@ -6,12 +6,12 @@
     <message>
         <location filename="../ui/EditorNS/bannerfilechanged.cpp" line="13"/>
         <source>This file has been changed outside of Notepadqq.</source>
-        <translation>Este arquivo não foi alterado pelo Notepadqq.</translation>
+        <translation>Este arquivo foi alterado fora do Notepadqq.</translation>
     </message>
     <message>
         <location filename="../ui/EditorNS/bannerfilechanged.cpp" line="15"/>
         <source>Reload</source>
-        <translation>Recharger</translation>
+        <translation>Recarregar</translation>
     </message>
     <message>
         <location filename="../ui/EditorNS/bannerfilechanged.cpp" line="18"/>
@@ -24,7 +24,7 @@
     <message>
         <location filename="../ui/EditorNS/bannerfileremoved.cpp" line="13"/>
         <source>This file has been deleted from the file system.</source>
-        <translation>Ce fichier a été supprimé du système de fichiers.</translation>
+        <translation>Este arquivo foi deletado da fonte.</translation>
     </message>
     <message>
         <location filename="../ui/EditorNS/bannerfileremoved.cpp" line="15"/>
@@ -42,24 +42,24 @@
     <message>
         <location filename="../ui/EditorNS/bannerindentationdetected.cpp" line="18"/>
         <source>This file is indented with %1, but your current settings specify to use %2.</source>
-        <translation>Ce fichier est indenté avec %1 mais vos paramètres actuels indiquent l&apos;utilisation de %2.</translation>
+        <translation>O arquivo foi identado com %1, mas suas configurações no Notepadqq s&atilde;o que use %2.</translation>
     </message>
     <message>
         <location filename="../ui/EditorNS/bannerindentationdetected.cpp" line="20"/>
         <location filename="../ui/EditorNS/bannerindentationdetected.cpp" line="25"/>
         <source>spaces</source>
-        <translation>espaço</translation>
+        <translation>espaços</translation>
     </message>
     <message>
         <location filename="../ui/EditorNS/bannerindentationdetected.cpp" line="20"/>
         <location filename="../ui/EditorNS/bannerindentationdetected.cpp" line="25"/>
         <source>tabs</source>
-        <translation>tabs</translation>
+        <translation>tabula&ccedil;&atilde;es</translation>
     </message>
     <message>
         <location filename="../ui/EditorNS/bannerindentationdetected.cpp" line="22"/>
         <source>Use spaces</source>
-        <translation>Utiliser des espaces</translation>
+        <translation>Utilizar espa&ccedil;os</translation>
     </message>
     <message>
         <location filename="../ui/EditorNS/bannerindentationdetected.cpp" line="27"/>
